@@ -1,7 +1,6 @@
 Hi there!
 
-I am a psychologist, neuroscientist and research software engineer currently working in the social science sector at the [Netherlands eScience Center](https://www.esciencecenter.nl/).
-I am also an honorary research fellow of the [Oxford's Department of Education](https://www.education.ox.ac.uk/) where I worked as a postdoc before joining the escience center.
+I am a research software engineer working at the [Netherlands eScience Center](https://www.esciencecenter.nl/) whereby I help researchers across the Social Sciences and Humanities unleash their research potential by developing open, accessible, and user-friendly software for the wider scientific community. At the same time, I am an honorary research fellow of the [Oxford's Department of Education](https://www.education.ox.ac.uk/) where I combine my scientific background with my software development skills to code reliable and engaging digital experiments for large-scale data collection with children and adults. 
 
 - :mailbox: e.viviani@esciencecenter.nl
 
