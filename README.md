@@ -1,6 +1,8 @@
 Hi there!
 
-I am a research software engineer working at the [Netherlands eScience Center](https://www.esciencecenter.nl/) whereby I help researchers across the Social Sciences and Humanities to develop open, accessible, and user-friendly software for the wider scientific community. At the same time, I am a honorary research fellow of the [Oxford's Department of Education](https://www.education.ox.ac.uk/) where I combine my scientific background with my software development skills to code reliable and engaging digital experiments for large-scale data collection with children and adults. 
+I am a research software engineer working at the [Netherlands eScience Center](https://www.esciencecenter.nl/). I collaborate with researchers from the Social Sciences and Humanities to develop open, accessible, and user-friendly software that benefits the wider scientific community. 
+
+At the same time, I am a honorary research fellow of the [Oxford's Department of Education](https://www.education.ox.ac.uk/). Here, I leverage both my background as a Researcher and my software development expertise to design robust and engaging digital experiments. These experiments facilitate large-scale data collection with both children and adults.
 
 - :mailbox: e.viviani@esciencecenter.nl
 
